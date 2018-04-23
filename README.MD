@@ -1,2 +1,3 @@
-./mvnw clean install -DskipTests
-docker-compose up --build
+- https://spring.io/guides/gs/accessing-data-mongodb/
+- ./mvnw clean install
+- docker-compose up --build
